@@ -1,0 +1,8 @@
+streamlit
+openai-whisper
+faster-whisper
+opencv-python-headless
+scenedetect[opencv]
+ffmpeg-python
+Pillow
+numpy
